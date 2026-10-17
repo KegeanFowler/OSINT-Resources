@@ -46,3 +46,7 @@ Criminal Search
 Malware Analysis
 - https://app.any.run/
 - https://www.virustotal.com/gui/home/upload
+
+  Xbox
+  - https://gamerdvr.com/
+  - https://xresolver.com/
